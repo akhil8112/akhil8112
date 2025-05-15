@@ -1,13 +1,8 @@
 👋 Hi, I'm Akhil Singh
-
 🌐 Passionate about programming and web development
-
 📚 Currently diving into JavaScript and modern front-end technologies
-
 🤝 Open to collaborations on exciting web projects and startups
-
 📬 Reach me at: akhilsingh8113@gmail.com
-
 🔗 Connect with me on www.linkedin.com/in/akhil82
 
 <!---
