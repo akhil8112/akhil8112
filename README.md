@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Akhil Singh
-- 👀 I’m interested to programming and making websites
--  I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me akhilsingh8113@gmail.com
+👋 Hi, I'm Akhil Singh
+🌐 Passionate about programming and web development
+📚 Currently diving into JavaScript and modern front-end technologies
+🤝 Open to collaborations on exciting web projects and startups
+📬 Reach me at: akhilsingh8113@gmail.com
+🔗 Connect with me on www.linkedin.com/in/akhil82
 
 <!---
 akhil8112/akhil8112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
